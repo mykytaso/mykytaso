@@ -1,6 +1,6 @@
 🇺🇦 Hi! I'm Mykyta from Ukraine
 
-🇵🇹 Since 2017, I have been living in Lisbon, Portugal
+📍 Since 2017 – Lisbon 🇵🇹 -> Since 2024 – Gainesville, FL 🇺🇸
 
 🎨 Since 2010, I've been working professionally as a 2D Artist. You can check out my works on <a href="https://www.artstation.com/mykyta_soloviov">ArtStation</a>
 
