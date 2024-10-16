@@ -2,7 +2,7 @@
 
 📍 Since 2017 – Lisbon 🇵🇹 -> Since 2024 – Gainesville, FL 🇺🇸
 
-🎨 Since 2010, I've been working professionally as a 2D Artist. You can check out my works on <a href="https://www.artstation.com/mykyta_soloviov">ArtStation</a>
+🎨 Since 2010, I've been working professionally as a 2D Artist. You can check out my works on <a href="https://www.artstation.com/mykyta_so">ArtStation</a>
 
 🤖 I've always been passionate about technology. In 2023, I enrolled in "CS50: Introduction to Computer Science," a fantastic course offered by Harvard University, and I successfully completed it!
 
