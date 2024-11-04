@@ -1,5 +1,6 @@
-👋 Hi! I'm Mykyta.
+### 👋 Hi! I'm Mykyta.
 
+<br>
 
 📍 Locations<br>
 - Until 2017: Ukraine 🇺🇦
