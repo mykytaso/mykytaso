@@ -16,7 +16,7 @@
 
 <br>
 
-🎓 `CS50` made me realize there is no turning back—I need to change my career. In late 2023, I enrolled in the Python Developer course at [Mate Academy](https://mate.academy/en).
+🎓 `CS50` made me realize there is no turning back—I need to change my career. In late 2023, I enrolled in the Python Developer course at `Mate Academy`.
 
 Here are some of my projects from the course:
 - [API service for Library management (with Payments and Telegram bot notifications).](https://github.com/mykyta-so/library-service) 
