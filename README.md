@@ -9,7 +9,12 @@
 
 <br>
 
-👾 From 2010 to 2022, I worked professionally as a [2D Artist](https://www.artstation.com/mykyta_so). I’ve always been passionate about technology, and in 2023, I enrolled in `CS50: Introduction to Computer Science` (an amazing course offered by Harvard University), which I successfully completed.
+👨🏻‍🎨 From 2010 to 2022, I worked professionally as a [2D Artist](https://www.artstation.com/mykyta_so). 
+
+<br>
+
+
+👾 I’ve always been passionate about technology, and in 2023, I enrolled in `CS50: Introduction to Computer Science` (an amazing course offered by Harvard University), which I successfully completed.
 - [Demo of my CS50 final project on YouTube.](https://youtu.be/IIwnNInCA_8?si=07lDZ1yhEhMNztML)
 - [CS50 repository on GitHub.](https://github.com/mykyta-so/CS50)
 - [CS50 Certificate.](https://certificates.cs50.io/5227e606-8e1c-4164-8718-4c6ec16057a4.pdf?size=letter)
