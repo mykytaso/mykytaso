@@ -3,17 +3,13 @@
 ### About:
 Passionate Software Developer.
 
-<br>
 
 ### Tech Stack and Tools:
 <img src="images/stack_and_tools.png" width="600">
 
-<br>
 
 ### Codewars:
 <a href="https://www.codewars.com/users/mykytaso"><img src="https://www.codewars.com/users/mykytaso/badges/small">
-
-<br>
 
 ### Languages:
 - 🇺🇦 Ukrainian: Native
