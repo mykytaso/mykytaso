@@ -5,11 +5,11 @@ Passionate Software Developer.
 
 
 ### Tech Stack and Tools:
-<img src="images/stack_and_tools.png" width="600">
+<img src="images/stack_and_tools.png" width="600" alt="Tech Stack and Tools">
 
 
 ### Codewars:
-<a href="https://www.codewars.com/users/mykytaso"><img src="https://www.codewars.com/users/mykytaso/badges/small">
+<a href="https://www.codewars.com/users/mykytaso"><img src="https://www.codewars.com/users/mykytaso/badges/small"></a>
 
 ### Languages:
 - 🇺🇦 Ukrainian: Native
