@@ -1,14 +1,17 @@
-### 👋 Hi! I'm Mykyta
+<div id="header" align="center"><h1>👋 Hi! I'm Mykyta</h1></div>
 
-  
-### About me:
+#### About me:
+Passionate Software Developer.
 
-Passionate Software Developer
+<br>
 
-### Languages:
-🇺🇦 Ukrainian: Native
+#### Languages:
+- 🇺🇦 Ukrainian: Native
+- 🇬🇧 English: Upper-Intermediate
 
-🇬🇧 English: Upper-Intermediate
+<br>
 
-### My Tech Stack and Tools:
-![The San Juan Mountains are beautiful!](/images/stack_and_tools.png "San Juan Mountains")
+#### My Tech Stack and Tools:
+<img src="images/stack_and_tools.png" width="600">
+
+<br>
