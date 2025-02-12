@@ -1,7 +1,7 @@
 <div id="header" align="center"><h1>👋 Hi! I'm Mykyta</h1></div>
 
 ### About:
-Passionate Software Developer.
+Python developer with a knack for coding and endless tech curiosity.
 
 
 ### Tech Stack and Tools:
