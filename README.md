@@ -1,6 +1,8 @@
 <div id="header" align="center"><h1>👋 Hi! I'm Mykyta</h1></div>
 
 ### About:
+<a href="https://mykytaso.com">mykytaso.com</a>
+
 I’m a Python Developer. I love engineering stuff, and programming is the perfect tool for me to do so.
 
 
@@ -12,8 +14,8 @@ I’m a Python Developer. I love engineering stuff, and programming is the perfe
 <a href="https://www.codewars.com/users/mykytaso"><img src="https://www.codewars.com/users/mykytaso/badges/small"></a>
 
 ### Languages:
-- 🇺🇦 Ukrainian: Native
-- 🇬🇧 English: Upper-Intermediate
+- 🇺🇦 Ukrainian
+- 🇬🇧 English
 
 <br>
 
