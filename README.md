@@ -7,7 +7,7 @@ I’m a Python Developer. I love engineering stuff, and programming is the perfe
 
 
 ### Tech Stack and Tools:
-<img src="images/stack_and_tools.png" width="600" alt="Tech Stack and Tools">
+<img src="images/stack_and_tools.png" alt="Tech Stack and Tools">
 
 
 ### Codewars:
