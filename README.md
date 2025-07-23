@@ -5,7 +5,7 @@
 
 I’m a Python Developer.
 
-I love engineering stuff, and programming is the perfect tool for me to do so.
+I love engineering, and programming is the perfect tool for me to do so.
 
 
 ### Tech Stack and Tools:
