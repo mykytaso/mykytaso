@@ -3,7 +3,9 @@
 ### About:
 <b><a href="https://mykytaso.com">mykytaso.com</a></b>
 
-I’m a Python Developer. I love engineering stuff, and programming is the perfect tool for me to do so.
+I’m a Python Developer.
+
+I love engineering stuff, and programming is the perfect tool for me to do so.
 
 
 ### Tech Stack and Tools:
