@@ -1,24 +1,21 @@
-<div id="header" align="center"><h1>👋 Hi! I'm Mykyta</h1></div>
+# I love designing and building things.
 
-### About:
-<b><a href="https://mykytaso.com">mykytaso.com</a></b>
-
-I’m a Python Developer.
-
-I love engineering, and programming is the perfect tool for me to do so.
+### 🏠 Website
+[mykytaso.com](https://mykytaso.com)
 
 
-### Tech Stack and Tools:
-<img src="images/stack_and_tools.png" width="800" alt="Tech Stack and Tools">
+### 🚀 Projects
+- [Reshta](https://reshta.app/) - A private money tracker for iPhone.
+- [Focus Control](https://chromewebstore.google.com/detail/neofnbkjlkffaalciaancfhgbhkfcmea) - A Chrome extension that blocks distractions.
+
+[//]: # (### Tech Stack and Tools:)
+
+[//]: # (<img src="images/stack_and_tools.png" width="800" alt="Tech Stack and Tools">)
 
 
-### Codewars:
-<a href="https://www.codewars.com/users/mykytaso"><img src="https://www.codewars.com/users/mykytaso/badges/small"></a>
-
-### Languages:
+### 🗣️ Languages:
 - 🇺🇦 Ukrainian
 - 🇬🇧 English
 
-<br>
-
-✉️ Feel free to reach out: mykyta.soloviov@gmail.com
+### 💬 Connect
+mykyta.soloviov@gmail.com
