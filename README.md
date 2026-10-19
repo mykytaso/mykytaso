@@ -1,4 +1,4 @@
-# I love designing and building things.
+# 🛠️ I love designing and building things.
 
 ### 🏠 Website
 [mykytaso.com](https://mykytaso.com)
