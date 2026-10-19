@@ -1,21 +1,19 @@
 # 🛠️ I love designing and building things.
 
+
 ### 🏠 Website
-[mykytaso.com](https://mykytaso.com)
+&emsp;&emsp;[mykytaso.com](https://mykytaso.com)
 
 
 ### 🚀 Projects
-- [Reshta](https://reshta.app/) - A private money tracker for iPhone.
-- [Focus Control](https://chromewebstore.google.com/detail/neofnbkjlkffaalciaancfhgbhkfcmea) - A Chrome extension that blocks distractions.
-
-[//]: # (### Tech Stack and Tools:)
-
-[//]: # (<img src="images/stack_and_tools.png" width="800" alt="Tech Stack and Tools">)
+&emsp;&emsp;[Reshta](https://reshta.app/) - A private money tracker for iPhone.<br>
+&emsp;&emsp;[Focus Control](https://chromewebstore.google.com/detail/neofnbkjlkffaalciaancfhgbhkfcmea) - A Chrome extension that blocks distractions.
 
 
 ### 🗣️ Languages:
-- 🇺🇦 Ukrainian
-- 🇬🇧 English
+&emsp;&emsp;🇺🇦 Ukrainian<br>
+&emsp;&emsp;🇬🇧 English
+
 
 ### 💬 Connect
-mykyta.soloviov@gmail.com
+&emsp;&emsp;mykyta.soloviov@gmail.com
