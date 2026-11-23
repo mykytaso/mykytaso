@@ -1,7 +1,7 @@
 # 🛠️ I love designing and building things.
 
 
-### 🏠 Website
+### 🔗 Website
 &emsp;&emsp;[mykytaso.com](https://mykytaso.com)
 
 
@@ -10,10 +10,10 @@
 &emsp;&emsp;[Focus Control](https://chromewebstore.google.com/detail/neofnbkjlkffaalciaancfhgbhkfcmea) - A Chrome extension that blocks distractions.
 
 
-### 🗣️ Languages:
+### 💬 Languages:
 &emsp;&emsp;🇺🇦 Ukrainian<br>
 &emsp;&emsp;🇬🇧 English
 
 
-### 💬 Connect
+### 📧 Contact
 &emsp;&emsp;mykyta.soloviov@gmail.com
